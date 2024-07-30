@@ -5,11 +5,11 @@ AIM: To make a program with all operators
 
 THEORY: These are basically symbols that operate on operands. There are five types of operators in c++ which is also used in the codes
 
-arithmetic operator (+,-,*,/,%,++,--). these are the basic mathematical operators
-assigment operator(=,+=,-=,*=,/=). these are used to assign value
-comparision operator (==,<=,>=,!=). these are relational operators
-logical operator (&&,||,!). these are to combine conditional statements
-bitwise opertor (&,|,^,-,<<,>>). bit level operations
+1.arithmetic operator (+,-,*,/,%,++,--). these are the basic mathematical operators
+2.assigment operator(=,+=,-=,*=,/=). these are used to assign value
+3.comparision operator (==,<=,>=,!=). these are relational operators
+4.logical operator (&&,||,!). these are to combine conditional statements
+5.bitwise opertor (&,|,^,-,<<,>>). bit level operations
 
 OUTPUT 1:
 ![image](https://github.com/user-attachments/assets/b13c4da9-f07f-4dbc-9f44-b8071f1489da)
