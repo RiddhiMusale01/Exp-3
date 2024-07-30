@@ -1,7 +1,7 @@
-# Exp-3
-EXPERIMENT 3
+# Exp-3,4
+EXPERIMENT 3,4
 
-AIM: To make a program with all operators
+AIM: To study and implement operators and bitwise operators in C++
 
 THEORY: These are basically symbols that operate on operands. There are five types of operators in c++ which is also used in the codes
 
