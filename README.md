@@ -3,7 +3,7 @@
 
 AIM: To study and implement operators C++
 
-THEORY: These are basically symbols that operate on operands. There are four basic types of operators in c++ which is also used in the codes
+THEORY: These are basically symbols that operate on operands. There basic types of operators in c++ which is also used in the codes:
 
 1.Arithmetic operators (+,-,*,/,%). 
 
@@ -26,7 +26,7 @@ a++ increments a after using its current value. a-- decrements a before using it
 %= takes the modulus of the variable by a value.
 
 
-3.Comparision operators (==,<=,>=,!=).
+4.Comparision operators (==,<=,>=,!=).
    
 "=="checks if values are equal.
 
@@ -41,7 +41,7 @@ a++ increments a after using its current value. a-- decrements a before using it
 "<="checks if one value is less than or equal to another.
 
    
-4.Logical operators (&&,||,!). 
+5.Logical operators (&&,||,!). 
 
 && (logical AND) evaluates to true if both conditions are true.
 
