@@ -3,6 +3,8 @@
 
 AIM: To study and implement operators C++
 
+SOFTWARE: Visual Studio Code
+
 THEORY: These are basically symbols that operate on operands. There basic types of operators in c++ which is also used in the codes:
 
 1.Arithmetic operators (+,-,*,/,%). 
